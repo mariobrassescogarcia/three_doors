@@ -1,3 +1,6 @@
 You are in a room with three doors.
 
 Which door will you go through?
+
+Be careful! If you choose the wrong option you will die!!!
+
